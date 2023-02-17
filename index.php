@@ -27,15 +27,14 @@
                     </div>
                     <div class="text-white flex space-x-4">
                         <a class="cursor-pointer hover:border-b" onclick="document.querySelector('#why').scrollIntoView({
-     behavior: 'smooth'
-});">Преимущества</a>
-
+                            behavior: 'smooth'
+                        });">Преимущества</a>
                         <a class="cursor-pointer hover:border-b" onclick="document.querySelector('#was').scrollIntoView({
-     behavior: 'smooth'
-});">Было/Стало</a>
+                            behavior: 'smooth'
+                        });">Было/Стало</a>
                         <a class="cursor-pointer hover:border-b" onclick="document.querySelector('#zay').scrollIntoView({
-     behavior: 'smooth'
-});">Оставьте заявку</a>
+                            behavior: 'smooth'
+                        });">Оставьте заявку</a>
                     </div>
                 </div>
 

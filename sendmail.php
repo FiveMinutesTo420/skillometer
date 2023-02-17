@@ -1,4 +1,3 @@
-
 <?php
 //Import PHPMailer classes into the global namespace
 //These must be at the top of your script, not inside a function
@@ -28,7 +27,7 @@ $mail->FromName = "Федоров Айаал";
 
 
 //Адрес куда будут поступать заявки
-$mail->addAddress("29102004max@gmail.com", "Була Максим");
+$mail->addAddress("skillometer@mail.ru", "Skillometer");
 
 
 $mail->isHTML(true);
